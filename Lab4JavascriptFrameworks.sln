@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Lab4JavascriptFrameworks", "Lab4JavascriptFrameworks\Lab4JavascriptFrameworks.njsproj", "{FEF25369-49DE-40BA-A8D0-CB9C5759B78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF25369-49DE-40BA-A8D0-CB9C5759B78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF25369-49DE-40BA-A8D0-CB9C5759B78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF25369-49DE-40BA-A8D0-CB9C5759B78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF25369-49DE-40BA-A8D0-CB9C5759B78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F86D967D-E679-44E9-A7F9-EE4969D5BC98}
+	EndGlobalSection
+EndGlobal

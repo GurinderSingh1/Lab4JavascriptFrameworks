@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1 Login
+  form(method='POST' action='/login')
+    fieldset
+        label(for='username') user-name
+        input#username(type='text' name='username')
+    fieldset
+        label(for='password') password
+        input#password(type='password' name='password')
+    input(type='submit' value='Login')
